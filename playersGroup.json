@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:20:15.964Z",
+    "location": [
+      561513.25,
+      128145.875,
+      25676.87890625
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 0.0078125,
+    "speed": 0.000028024113192506977
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:20:25.927Z",
+    "location": [
+      561513.25,
+      128145.875,
+      25676.87890625
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 0,
+    "speed": 0
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:20:35.906Z",
+    "location": [
+      561513.25,
+      128145.875,
+      25676.87890625
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 0,
+    "speed": 0
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:22:36.992Z",
+    "location": [
+      338013.1875,
+      174159.375,
+      1682.2899169921875
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 2652.0662345612714,
+    "speed": 10.155769007999762
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:22:46.958Z",
+    "location": [
+      336895.3125,
+      173385.453125,
+      1684.6199951171875
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1359.6321503364488,
+    "speed": 4.911374414219562
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:22:56.989Z",
+    "location": [
+      338601.59375,
+      173035.890625,
+      1928.47998046875
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1741.7203120787829,
+    "speed": 6.250815595138689
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:23:06.981Z",
+    "location": [
+      342636.5,
+      170782.953125,
+      1512.8800048828125
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 4621.276428130578,
+    "speed": 16.649915073328742
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:23:16.955Z",
+    "location": [
+      345649.03125,
+      170601.859375,
+      1453.43994140625
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 3017.969429685401,
+    "speed": 10.893011777488914
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:23:27.020Z",
+    "location": [
+      341947.1875,
+      168062.578125,
+      1580.0899658203125
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 4489.052953131164,
+    "speed": 16.056225167682257
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:23:36.971Z",
+    "location": [
+      337434.21875,
+      165476.0625,
+      1870.8499755859375
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 5201.629553980723,
+    "speed": 18.818074961642655
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:23:46.984Z",
+    "location": [
+      335093.15625,
+      167248.890625,
+      1684.679931640625
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 2936.5784834901424,
+    "speed": 10.557957196209442
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:23:57.019Z",
+    "location": [
+      335907,
+      167085.59375,
+      1656.77001953125
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 830.0647678337083,
+    "speed": 2.9778108263092675
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:24:07.028Z",
+    "location": [
+      337320.6875,
+      166931.140625,
+      1657.47998046875
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1422.0998964483879,
+    "speed": 5.114956166664198
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:24:16.963Z",
+    "location": [
+      336388.4375,
+      167804.671875,
+      1663.159912109375
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1277.5550505659482,
+    "speed": 4.6292885576622185
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:24:26.993Z",
+    "location": [
+      336514.40625,
+      167635.0625,
+      1663.2099609375
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 211.2710724743289,
+    "speed": 0.7583009580334836
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:24:36.990Z",
+    "location": [
+      339775.78125,
+      165650.015625,
+      1683.1199951171875
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 3817.9808782355453,
+    "speed": 13.74885581839348
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:24:46.969Z",
+    "location": [
+      344095.9375,
+      164185.953125,
+      1680.0299072265625
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 4561.494166204788,
+    "speed": 16.455936464913552
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:24:56.987Z",
+    "location": [
+      348113.59375,
+      164359.25,
+      2164.67529296875
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 4021.3919915930637,
+    "speed": 14.450999370867468
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:25:06.967Z",
+    "location": [
+      353099.90625,
+      162806.015625,
+      1454.3800048828125
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 5222.628588300904,
+    "speed": 18.839141200283823
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:25:36.950Z",
+    "location": [
+      381106.1875,
+      134891.171875,
+      175.7838592529297
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 133.37440051558104,
+    "speed": 1200.3696046402295
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:25:46.961Z",
+    "location": [
+      378081.90625,
+      135357.3125,
+      154.36000061035156
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 3059.994144010239,
+    "speed": 11.003874656314915
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:25:56.952Z",
+    "location": [
+      377832.1875,
+      134941.578125,
+      154.34999084472656
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 484.96858110418157,
+    "speed": 1.7474596056201117
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:26:06.944Z",
+    "location": [
+      377871.65625,
+      135311.984375,
+      154.36000061035156
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 372.5031171220249,
+    "speed": 1.3420848895509303
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:26:16.983Z",
+    "location": [
+      378358,
+      136764.109375,
+      154.41000366210938
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1531.4036890346915,
+    "speed": 5.491635900512889
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:26:26.995Z",
+    "location": [
+      377697.03125,
+      136082.4375,
+      530.5700073242188
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 949.5031509387308,
+    "speed": 3.41411440609212
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:26:36.970Z",
+    "location": [
+      378191.71875,
+      136747.1875,
+      530.5700073242188
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 828.6182988301972,
+    "speed": 2.9905021311165014
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:26:46.963Z",
+    "location": [
+      377823.5,
+      135726.390625,
+      530.5700073242188
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1085.1780074537671,
+    "speed": 3.9093773910072667
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:26:56.988Z",
+    "location": [
+      375790.59375,
+      132867.640625,
+      125.32999420166016
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 3507.871061454378,
+    "speed": 12.596843711955872
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:27:06.956Z",
+    "location": [
+      375799.84375,
+      131569.609375,
+      122.18999481201172
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 1298.0642081486426,
+    "speed": 4.688032854469416
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:27:16.969Z",
+    "location": [
+      373642.4375,
+      132362.046875,
+      168.47999572753906
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 2298.338295148326,
+    "speed": 8.26327560424845
+  },
+  {
+    "name": "Lessdoit",
+    "timestamp": "2018-04-03T02:27:26.947Z",
+    "location": [
+      373707.125,
+      132063.765625,
+      168.47999572753906
+    ],
+    "type": "LogPlayerPosition",
+    "inRide": false,
+    "distance": 305.2149681090567,
+    "speed": 1.1011965175311729
+  }
+]
+{ name: 'Lessdoit',
+  timestamp: '2018-04-03T02: 25: 36.950Z',
+  location: [
+    381106.1875,
+    134891.171875,
+    175.7838592529297
+  ],
+  type: 'LogPlayerPosition',
+  inRide: false,
+  distance: 133.37440051558104,
+  speed: 1200.3696046402295
+}
+{ name: 'Lessdoit',
+  timestamp: '2018-04-03T02: 25: 36.950Z',
+  location: [
+    381106.1875,
+    134891.171875,
+    175.7838592529297
+  ],
+  type: 'LogPlayerPosition',
+  inRide: false,
+  distance: 133.37440051558104,
+  speed: 1200.3696046402295
+}
