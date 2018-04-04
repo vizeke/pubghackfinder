@@ -34,8 +34,8 @@ for ( key in players ) {
         }
         e.inRide = inRide;
 
-        if ( old ) {
-            e.distance = distance( old.location.slice( 0, 2 ), e.location.slice( 0, 2 ) );
+        if ( old && old.type == 'LogPlayerPosition' ) {
+            e.distance = distance( old.location, e.location );
             e.speed = e.distance / ( new Date( e.timestamp ) - new Date( old.timestamp ) ) / 100000 * 3600000;
         }
         old = e;
@@ -50,8 +50,8 @@ for ( key in players ) {
     }
 }
 
-console.log( JSON.stringify( players[ 'Lessdoit' ] ) );
+console.log( JSON.stringify( players[ 'ViZeke' ], null, '    ' ) );
 
-console.log( players[ 'Lessdoit' ].reduce( ( acum, value ) => acum.speed > value.speed ? acum : value, {} ) );
+console.log( players[ 'ViZeke' ].reduce( ( acum, value ) => acum.speed > value.speed ? acum : value, {} ) );
 
 console.log( maxMaxSpeed );

@@ -1,429 +1,1753 @@
 [
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:20:15.964Z",
-    "location": [
-      561513.25,
-      128145.875,
-      25676.87890625
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 0.0078125,
-    "speed": 0.000028024113192506977
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:20:25.927Z",
-    "location": [
-      561513.25,
-      128145.875,
-      25676.87890625
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 0,
-    "speed": 0
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:20:35.906Z",
-    "location": [
-      561513.25,
-      128145.875,
-      25676.87890625
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 0,
-    "speed": 0
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:22:36.992Z",
-    "location": [
-      338013.1875,
-      174159.375,
-      1682.2899169921875
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 2652.0662345612714,
-    "speed": 10.155769007999762
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:22:46.958Z",
-    "location": [
-      336895.3125,
-      173385.453125,
-      1684.6199951171875
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1359.6321503364488,
-    "speed": 4.911374414219562
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:22:56.989Z",
-    "location": [
-      338601.59375,
-      173035.890625,
-      1928.47998046875
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1741.7203120787829,
-    "speed": 6.250815595138689
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:23:06.981Z",
-    "location": [
-      342636.5,
-      170782.953125,
-      1512.8800048828125
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 4621.276428130578,
-    "speed": 16.649915073328742
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:23:16.955Z",
-    "location": [
-      345649.03125,
-      170601.859375,
-      1453.43994140625
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 3017.969429685401,
-    "speed": 10.893011777488914
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:23:27.020Z",
-    "location": [
-      341947.1875,
-      168062.578125,
-      1580.0899658203125
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 4489.052953131164,
-    "speed": 16.056225167682257
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:23:36.971Z",
-    "location": [
-      337434.21875,
-      165476.0625,
-      1870.8499755859375
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 5201.629553980723,
-    "speed": 18.818074961642655
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:23:46.984Z",
-    "location": [
-      335093.15625,
-      167248.890625,
-      1684.679931640625
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 2936.5784834901424,
-    "speed": 10.557957196209442
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:23:57.019Z",
-    "location": [
-      335907,
-      167085.59375,
-      1656.77001953125
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 830.0647678337083,
-    "speed": 2.9778108263092675
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:24:07.028Z",
-    "location": [
-      337320.6875,
-      166931.140625,
-      1657.47998046875
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1422.0998964483879,
-    "speed": 5.114956166664198
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:24:16.963Z",
-    "location": [
-      336388.4375,
-      167804.671875,
-      1663.159912109375
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1277.5550505659482,
-    "speed": 4.6292885576622185
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:24:26.993Z",
-    "location": [
-      336514.40625,
-      167635.0625,
-      1663.2099609375
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 211.2710724743289,
-    "speed": 0.7583009580334836
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:24:36.990Z",
-    "location": [
-      339775.78125,
-      165650.015625,
-      1683.1199951171875
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 3817.9808782355453,
-    "speed": 13.74885581839348
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:24:46.969Z",
-    "location": [
-      344095.9375,
-      164185.953125,
-      1680.0299072265625
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 4561.494166204788,
-    "speed": 16.455936464913552
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:24:56.987Z",
-    "location": [
-      348113.59375,
-      164359.25,
-      2164.67529296875
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 4021.3919915930637,
-    "speed": 14.450999370867468
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:25:06.967Z",
-    "location": [
-      353099.90625,
-      162806.015625,
-      1454.3800048828125
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 5222.628588300904,
-    "speed": 18.839141200283823
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:25:36.950Z",
-    "location": [
-      381106.1875,
-      134891.171875,
-      175.7838592529297
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 133.37440051558104,
-    "speed": 1200.3696046402295
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:25:46.961Z",
-    "location": [
-      378081.90625,
-      135357.3125,
-      154.36000061035156
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 3059.994144010239,
-    "speed": 11.003874656314915
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:25:56.952Z",
-    "location": [
-      377832.1875,
-      134941.578125,
-      154.34999084472656
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 484.96858110418157,
-    "speed": 1.7474596056201117
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:26:06.944Z",
-    "location": [
-      377871.65625,
-      135311.984375,
-      154.36000061035156
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 372.5031171220249,
-    "speed": 1.3420848895509303
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:26:16.983Z",
-    "location": [
-      378358,
-      136764.109375,
-      154.41000366210938
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1531.4036890346915,
-    "speed": 5.491635900512889
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:26:26.995Z",
-    "location": [
-      377697.03125,
-      136082.4375,
-      530.5700073242188
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 949.5031509387308,
-    "speed": 3.41411440609212
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:26:36.970Z",
-    "location": [
-      378191.71875,
-      136747.1875,
-      530.5700073242188
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 828.6182988301972,
-    "speed": 2.9905021311165014
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:26:46.963Z",
-    "location": [
-      377823.5,
-      135726.390625,
-      530.5700073242188
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1085.1780074537671,
-    "speed": 3.9093773910072667
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:26:56.988Z",
-    "location": [
-      375790.59375,
-      132867.640625,
-      125.32999420166016
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 3507.871061454378,
-    "speed": 12.596843711955872
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:27:06.956Z",
-    "location": [
-      375799.84375,
-      131569.609375,
-      122.18999481201172
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 1298.0642081486426,
-    "speed": 4.688032854469416
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:27:16.969Z",
-    "location": [
-      373642.4375,
-      132362.046875,
-      168.47999572753906
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 2298.338295148326,
-    "speed": 8.26327560424845
-  },
-  {
-    "name": "Lessdoit",
-    "timestamp": "2018-04-03T02:27:26.947Z",
-    "location": [
-      373707.125,
-      132063.765625,
-      168.47999572753906
-    ],
-    "type": "LogPlayerPosition",
-    "inRide": false,
-    "distance": 305.2149681090567,
-    "speed": 1.1011965175311729
-  }
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:19:55.213Z",
+        "location": [
+            796494.625,
+            18974.5,
+            528.5
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:20:05.168Z",
+        "location": [
+            796494.625,
+            18974.5,
+            528.5
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:20:15.237Z",
+        "location": [
+            796494.625,
+            18974.5,
+            528.5
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:20:25.178Z",
+        "location": [
+            796494.625,
+            18974.5,
+            528.5
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:20:35.149Z",
+        "location": [
+            796494.625,
+            18974.5,
+            528.5
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:21:56.266Z",
+        "location": [
+            632703.0625,
+            612495.625,
+            90.45999908447266
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": null
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:22:06.259Z",
+        "location": [
+            631170.25,
+            613135.75,
+            90.47999572753906
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1661.1063109208621,
+        "speed": 5.984171639462728
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:22:16.238Z",
+        "location": [
+            629373.3125,
+            614260.0625,
+            90.47999572753906
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2119.684640828088,
+        "speed": 7.646923245797291
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:22:26.265Z",
+        "location": [
+            629088.875,
+            610775.25,
+            388.79998779296875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3509.104966972122,
+        "speed": 12.598761225790007
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:22:36.278Z",
+        "location": [
+            627374.375,
+            611486.875,
+            484.42999267578125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1858.7806456004664,
+        "speed": 6.682922524879336
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:22:46.229Z",
+        "location": [
+            625236.25,
+            611934.0625,
+            388.6999816894531
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2186.485630134507,
+        "speed": 7.9101077966879965
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:22:56.281Z",
+        "location": [
+            622494.1875,
+            609550.875,
+            90.15999603271484
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3645.2181741424515,
+        "speed": 13.054899947187451
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:23:06.289Z",
+        "location": [
+            618939.75,
+            607347.3125,
+            148.66000366210938
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4182.479633387967,
+        "speed": 15.044890767582615
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:23:16.235Z",
+        "location": [
+            617700.4375,
+            607424.6875,
+            120.88999938964844
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1242.0360447340256,
+        "speed": 4.495606033624062
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:23:26.204Z",
+        "location": [
+            616107.875,
+            609448.3125,
+            148.72000122070312
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2575.2840554069303,
+        "speed": 9.299852141102368
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:23:36.276Z",
+        "location": [
+            619775.3125,
+            608396.1875,
+            90.15999603271484
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3815.821550628235,
+        "speed": 13.638758520911086
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:23:46.212Z",
+        "location": [
+            620084.4375,
+            608406.3125,
+            199.39999389648438
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 328.01548497483526,
+        "speed": 1.1884619020827363
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:23:56.215Z",
+        "location": [
+            619570.375,
+            607977.5625,
+            90.1500015258789
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 678.2494948315313,
+        "speed": 2.440965891626025
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:24:06.250Z",
+        "location": [
+            619114.5625,
+            607010.875,
+            121.80999755859375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1069.2296821362993,
+        "speed": 3.8358015502647507
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:24:16.249Z",
+        "location": [
+            619717.4375,
+            606295.1875,
+            90.15999603271484
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 936.3058185645532,
+        "speed": 3.371038050637455
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:24:26.219Z",
+        "location": [
+            620695.0625,
+            605529.375,
+            388.7799987792969
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1277.260087774459,
+        "speed": 4.61197223268611
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:24:36.233Z",
+        "location": [
+            618699.625,
+            603507.5625,
+            388.6399841308594
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2840.685942015872,
+        "speed": 10.212172349967187
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:24:46.223Z",
+        "location": [
+            618292.625,
+            601600.25,
+            388.78997802734375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1950.253828391171,
+        "speed": 7.027941723932147
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:24:56.230Z",
+        "location": [
+            617764.5625,
+            600880.5625,
+            401.1199951171875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 892.7217544587652,
+        "speed": 3.2115502308899315
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:25:06.213Z",
+        "location": [
+            617844.0625,
+            600685.875,
+            401.1199951171875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 210.2937770269249,
+        "speed": 0.7583467868345484
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:25:16.207Z",
+        "location": [
+            618610.4375,
+            601057.625,
+            486.4100036621094
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 856.0391864176504,
+        "speed": 3.0835912258390445
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:25:26.208Z",
+        "location": [
+            619797.1875,
+            600571.4375,
+            481.6099853515625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1282.4885527099382,
+        "speed": 4.616497140041774
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:25:36.203Z",
+        "location": [
+            620017.1875,
+            599900.4375,
+            483
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 706.1465372999594,
+        "speed": 2.5433992338968023
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:25:46.201Z",
+        "location": [
+            620956.6875,
+            600340,
+            90.15999603271484
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1109.1432324651612,
+        "speed": 3.9937143797505303
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:25:56.208Z",
+        "location": [
+            619737.5,
+            595107,
+            102.87999725341797
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5373.1619144212755,
+        "speed": 19.32985199551973
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:26:06.207Z",
+        "location": [
+            616496.375,
+            592398.375,
+            191.989990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4224.864642458864,
+        "speed": 15.211033816233533
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:26:16.228Z",
+        "location": [
+            615726.125,
+            592102.125,
+            164.0500030517578
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 825.7298395260793,
+        "speed": 2.966397986522189
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:26:26.222Z",
+        "location": [
+            613746.3125,
+            592307.3125,
+            89.94999694824219
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1991.7957365696516,
+        "speed": 7.17476951335876
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:26:36.206Z",
+        "location": [
+            611777.875,
+            592184.9375,
+            90.1500015258789
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1972.23778283276,
+        "speed": 7.111434313098895
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:26:46.223Z",
+        "location": [
+            607628.25,
+            590093.0625,
+            100.87999725341797
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4647.089819344825,
+        "speed": 16.7011314262168
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:26:56.239Z",
+        "location": [
+            606441.5,
+            588509.5625,
+            435.75
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2006.9842379150605,
+        "speed": 7.213601494103652
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:27:06.199Z",
+        "location": [
+            606118,
+            593217.625,
+            149.8199920654297
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4727.81775487843,
+        "speed": 17.08849790919914
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:27:16.214Z",
+        "location": [
+            603798.8125,
+            591853.75,
+            100.87999725341797
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2690.9442206915865,
+        "speed": 9.67288985970016
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:27:26.284Z",
+        "location": [
+            604465,
+            592937.9375,
+            90.1500015258789
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1272.549980598331,
+        "speed": 4.549334588037729
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:27:36.208Z",
+        "location": [
+            603345.3125,
+            595649.75,
+            90.15999603271484
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2933.8757868922107,
+        "speed": 10.642838404687584
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:27:46.213Z",
+        "location": [
+            602717.75,
+            596351.625,
+            492.3899841308594
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1023.8418678471219,
+        "speed": 3.6839887298846965
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:27:56.240Z",
+        "location": [
+            602412.125,
+            595624.375,
+            492.3999938964844
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 788.859431854114,
+        "speed": 2.832246888077002
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:28:06.190Z",
+        "location": [
+            602765.875,
+            596572.8125,
+            842.3999633789062
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1071.061498021447,
+        "speed": 3.8751973797760897
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:28:16.186Z",
+        "location": [
+            598471.8125,
+            598057.0625,
+            137.19000244140625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4597.748569181629,
+        "speed": 16.558518256356408
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:28:26.222Z",
+        "location": [
+            598666.4375,
+            598724.125,
+            177.30999755859375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 696.0322431751658,
+        "speed": 2.496727855152049
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:28:36.184Z",
+        "location": [
+            598535,
+            600004.9375,
+            125.13999938964844
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1288.5954311852295,
+        "speed": 4.656638779629418
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:28:46.206Z",
+        "location": [
+            596905.1875,
+            597485.875,
+            294.9499816894531
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3005.1289646454707,
+        "speed": 10.794715897748647
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:28:56.190Z",
+        "location": [
+            591535.8125,
+            595129.5625,
+            1201.5699462890625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5933.325901085482,
+        "speed": 21.39420397026015
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:29:06.201Z",
+        "location": [
+            586054.3125,
+            592893.9375,
+            1221.5799560546875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5919.903866712349,
+        "speed": 21.288236859618873
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:29:16.199Z",
+        "location": [
+            580742.4375,
+            592549.75,
+            1246.909912109375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5323.074549304658,
+        "speed": 19.16690175784834
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:29:26.184Z",
+        "location": [
+            581340.375,
+            593279.4375,
+            1213.22998046875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 943.9848724200072,
+        "speed": 3.4034507167872063
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:29:56.196Z",
+        "location": [
+            553536.8125,
+            592333.4375,
+            1477.8699951171875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": null
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:32:46.215Z",
+        "location": [
+            330443.5,
+            523878,
+            1421.7999267578125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": null
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:32:56.210Z",
+        "location": [
+            330455.15625,
+            523709.5625,
+            1416.5899658203125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 168.9207011093749,
+        "speed": 0.6084187333604298
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:34:56.209Z",
+        "location": [
+            268659.34375,
+            335031.3125,
+            4797.18994140625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": null
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:35:06.199Z",
+        "location": [
+            268083.53125,
+            335091.40625,
+            4808.10986328125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 579.0427779007944,
+        "speed": 2.0866406410839433
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:35:16.209Z",
+        "location": [
+            267722.6875,
+            335373,
+            4808.10986328125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 457.7152520433692,
+        "speed": 1.6461287785775516
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:36:46.216Z",
+        "location": [
+            251782.046875,
+            193854.0625,
+            2590.52001953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": null
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:36:56.210Z",
+        "location": [
+            251506.734375,
+            193045.328125,
+            2583.1298828125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 854.3435351681503,
+        "speed": 3.0774832165352626
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:37:06.214Z",
+        "location": [
+            251846.375,
+            191597.671875,
+            2648.989990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1488.4226301907916,
+        "speed": 5.356178997088015
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:37:16.191Z",
+        "location": [
+            251738.109375,
+            191543.53125,
+            2648.989990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 121.04814262115404,
+        "speed": 0.43677790261216254
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:37:26.196Z",
+        "location": [
+            251845.390625,
+            191533.328125,
+            2621.079833984375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 111.32091979150881,
+        "speed": 0.40055503373256546
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:37:36.182Z",
+        "location": [
+            252045.03125,
+            191111.828125,
+            2621.08984375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 466.3889248798539,
+        "speed": 1.6813540252027581
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:37:46.190Z",
+        "location": [
+            252045.03125,
+            191111.828125,
+            2621.02001953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0.06982421875,
+        "speed": 0.0002511662544964029
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:37:56.183Z",
+        "location": [
+            252369.234375,
+            190853.421875,
+            2648.989990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 415.5283089754076,
+        "speed": 1.496949777155476
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:38:06.213Z",
+        "location": [
+            251435.875,
+            192058.3125,
+            2620.989990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1524.3704081073213,
+        "speed": 5.471319510654394
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:38:16.188Z",
+        "location": [
+            251665.6875,
+            191202.78125,
+            2621.06005859375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 885.8597574065477,
+        "speed": 3.19708784627927
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:38:26.188Z",
+        "location": [
+            251683.328125,
+            191247.3125,
+            2621
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 47.898094784529874,
+        "speed": 0.17243314122430753
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:38:36.204Z",
+        "location": [
+            252151.828125,
+            191178.15625,
+            2621.219970703125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 473.5766942124293,
+        "speed": 1.7021526549168784
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:38:46.191Z",
+        "location": [
+            252694.53125,
+            191699.640625,
+            2555.22998046875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 755.5311469853768,
+        "speed": 2.723452617550172
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:38:56.205Z",
+        "location": [
+            256185.4375,
+            190107.4375,
+            2963.31982421875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3858.506778291406,
+        "speed": 13.871204715247718
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:39:06.197Z",
+        "location": [
+            260460.65625,
+            186749.71875,
+            4871.52978515625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5761.339759072904,
+        "speed": 20.75742907592319
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:39:16.180Z",
+        "location": [
+            263943.875,
+            182311.234375,
+            5743.759765625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5709.092882963038,
+        "speed": 20.58773352566056
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:39:26.181Z",
+        "location": [
+            269506.0625,
+            181839.390625,
+            6617.33984375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5650.106942569069,
+        "speed": 20.338351158132838
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:39:36.196Z",
+        "location": [
+            268237.9375,
+            187066.171875,
+            6792.11962890625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5381.257401785927,
+        "speed": 19.343511379360297
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:39:46.193Z",
+        "location": [
+            267074,
+            188189.921875,
+            6508.4697265625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1642.5656253269972,
+        "speed": 5.915010754403511
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:39:56.184Z",
+        "location": [
+            267762.40625,
+            188358.25,
+            6609.9697265625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 715.918831087071,
+        "speed": 2.579629458426039
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:40:06.199Z",
+        "location": [
+            267865.90625,
+            188808.5,
+            6575.33984375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 463.28883138233266,
+        "speed": 1.6653417803059385
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:40:16.209Z",
+        "location": [
+            269006.0625,
+            192262.875,
+            5999.40966796875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3682.9822810345536,
+        "speed": 13.24549072100339
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:40:26.184Z",
+        "location": [
+            265504.59375,
+            195344.890625,
+            4285.7099609375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4969.493978852343,
+        "speed": 17.93501586352725
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:40:36.209Z",
+        "location": [
+            260123.25,
+            197227.140625,
+            2833.56005859375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5883.065948724443,
+        "speed": 21.126221860756107
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:40:46.186Z",
+        "location": [
+            259091.3125,
+            197889.75,
+            2630.550048828125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1243.044348287373,
+        "speed": 4.485275788147281
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:40:56.195Z",
+        "location": [
+            259099.53125,
+            197891.234375,
+            2634.329833984375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 9.167224036235442,
+        "speed": 0.03297233143215865
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:41:06.195Z",
+        "location": [
+            259106.234375,
+            197898.109375,
+            2638.97998046875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 10.668709954430769,
+        "speed": 0.038407355835950764
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:41:16.189Z",
+        "location": [
+            259100.9375,
+            197901.8125,
+            2637.81005859375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 6.568008581362658,
+        "speed": 0.023659026308690784
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:41:26.200Z",
+        "location": [
+            259078.03125,
+            197861.09375,
+            2618.010009765625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 50.742041979222066,
+        "speed": 0.18247063342842818
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:41:36.184Z",
+        "location": [
+            260814.609375,
+            196776.359375,
+            2948.659912109375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2074.0495670198165,
+        "speed": 7.478544111850299
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:41:46.198Z",
+        "location": [
+            260824.359375,
+            196782.46875,
+            2953.6298828125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 12.533458089471788,
+        "speed": 0.04505736880577036
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:41:56.209Z",
+        "location": [
+            259046.875,
+            197865.609375,
+            2606.419921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2110.2604279729912,
+        "speed": 7.588590091602006
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:42:06.200Z",
+        "location": [
+            259335.75,
+            197520.453125,
+            2611.27001953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 450.1167914956491,
+        "speed": 1.6218801415116975
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:42:16.212Z",
+        "location": [
+            259067.234375,
+            197910.375,
+            2626.81982421875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 473.6892503514046,
+        "speed": 1.703237416365418
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:42:26.193Z",
+        "location": [
+            260460.578125,
+            197990.09375,
+            3120.219970703125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1480.2721335337053,
+        "speed": 5.339124016352408
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:42:36.195Z",
+        "location": [
+            265726.4375,
+            196131.796875,
+            4382.52001953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5725.027829293203,
+        "speed": 20.605978989657597
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:42:46.182Z",
+        "location": [
+            270204.125,
+            192556.953125,
+            6135.90966796875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5991.958648373509,
+        "speed": 21.599130003148726
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:42:56.199Z",
+        "location": [
+            275963.875,
+            191253.734375,
+            7199.19970703125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 6000.3070654776575,
+        "speed": 21.564445877727433
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:43:06.175Z",
+        "location": [
+            281793.0625,
+            192450.03125,
+            8243.5693359375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 6041.627350728675,
+        "speed": 21.80218370351166
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:43:16.173Z",
+        "location": [
+            285339.46875,
+            194708.28125,
+            8720.1796875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4231.293865918035,
+        "speed": 15.23570505831659
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:43:26.198Z",
+        "location": [
+            285509,
+            197669.609375,
+            8352.990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2988.8180277709807,
+        "speed": 10.732912618429458
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:43:36.197Z",
+        "location": [
+            286533.78125,
+            200198.953125,
+            7997.22998046875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2752.1485741643864,
+        "speed": 9.908725739565748
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:43:46.185Z",
+        "location": [
+            287206.59375,
+            200724.8125,
+            8056.69970703125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 856.0031488312757,
+        "speed": 3.0853137122472893
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:43:56.204Z",
+        "location": [
+            288395.6875,
+            200681.671875,
+            8374.76953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1231.654770174256,
+        "speed": 4.425548630229885
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:44:06.206Z",
+        "location": [
+            287638.6875,
+            200809.453125,
+            8176.61962890625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 792.8684831990739,
+        "speed": 2.853755788358994
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:44:16.183Z",
+        "location": [
+            285667.96875,
+            200648.21875,
+            7580.2998046875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2065.2666288011055,
+        "speed": 7.4520996929778285
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:44:26.179Z",
+        "location": [
+            285779.46875,
+            201087.953125,
+            7504.64990234375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 459.9146423862362,
+        "speed": 1.6563552546923273
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:44:36.186Z",
+        "location": [
+            285338.03125,
+            200508.171875,
+            7508.02001953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 728.7144310000111,
+        "speed": 2.621536875786989
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:44:46.179Z",
+        "location": [
+            285708.625,
+            200918.8125,
+            7523.7197265625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 553.3641940352846,
+        "speed": 1.9935065531142047
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:44:56.201Z",
+        "location": [
+            285746.9375,
+            200709.96875,
+            7591.02978515625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 222.74246016017366,
+        "speed": 0.8001126088371834
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:45:06.173Z",
+        "location": [
+            286129.8125,
+            201126.390625,
+            7614.759765625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 566.1833232942868,
+        "speed": 2.043983116585873
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:45:16.191Z",
+        "location": [
+            286136.40625,
+            201121.46875,
+            7618.32958984375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 8.969171507497169,
+        "speed": 0.032231001624066495
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:45:26.174Z",
+        "location": [
+            286205.96875,
+            201179.59375,
+            7607.6796875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 91.27364050579669,
+        "speed": 0.3291446517288071
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:45:36.179Z",
+        "location": [
+            286205.96875,
+            201179.59375,
+            7607.6796875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:45:46.192Z",
+        "location": [
+            286144.0625,
+            201127.640625,
+            7619.15966796875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 81.6290446954453,
+        "speed": 0.2934830329607541
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:45:56.174Z",
+        "location": [
+            285603.21875,
+            200662.03125,
+            7582.099609375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 714.6170302651101,
+        "speed": 2.5772603776341376
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:46:06.188Z",
+        "location": [
+            283871.375,
+            206283.109375,
+            6815.23974609375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5931.599793620547,
+        "speed": 21.32390578892947
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:46:16.177Z",
+        "location": [
+            283533.5625,
+            207513.234375,
+            6441.47998046875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1329.2934827122658,
+        "speed": 4.790726336734565
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:46:26.194Z",
+        "location": [
+            285290.65625,
+            210324.671875,
+            5930.77001953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 3354.457322264824,
+        "speed": 12.05555192188616
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:46:36.193Z",
+        "location": [
+            290494.40625,
+            211893.09375,
+            7071.2197265625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5553.3401457812915,
+        "speed": 19.994023927205372
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:46:46.184Z",
+        "location": [
+            295004.3125,
+            211670.359375,
+            8232.9296875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4662.449465563902,
+        "speed": 16.79993802024827
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:46:56.174Z",
+        "location": [
+            298664.21875,
+            209160.890625,
+            9178.9501953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4537.323216084285,
+        "speed": 16.350714292195626
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:47:06.194Z",
+        "location": [
+            304051.09375,
+            211351.3125,
+            9809.919921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 5849.315605431278,
+        "speed": 21.01550516921417
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:47:16.173Z",
+        "location": [
+            306405.21875,
+            214717.875,
+            9336.849609375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4135.1472891059275,
+        "speed": 14.91785774203962
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:47:26.171Z",
+        "location": [
+            307589.40625,
+            215698.0625,
+            9148.4697265625
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1548.726751419033,
+        "speed": 5.576531611430805
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:47:36.186Z",
+        "location": [
+            307454.21875,
+            215442.96875,
+            9200.830078125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 293.4111242967129,
+        "speed": 1.0546980004674653
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:47:46.192Z",
+        "location": [
+            307588.875,
+            217367.21875,
+            8809.8193359375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1968.1869242198725,
+        "speed": 7.081224192675935
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:47:56.200Z",
+        "location": [
+            311663.40625,
+            217246.53125,
+            9304.109375
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 4106.1774222017275,
+        "speed": 14.770422382020602
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:48:06.175Z",
+        "location": [
+            313520.53125,
+            216949.09375,
+            9520.01953125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 1893.145405826808,
+        "speed": 6.832404472156901
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:48:16.192Z",
+        "location": [
+            311697.59375,
+            218229.75,
+            9050.580078125
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 2276.7421812143357,
+        "speed": 8.182361837248285
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:48:26.204Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 134.80790862151161,
+        "speed": 0.4847267988787872
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:48:36.206Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:48:46.179Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:48:56.185Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:49:06.176Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:49:16.193Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    },
+    {
+        "name": "ViZeke",
+        "timestamp": "2018-04-03T02:49:26.178Z",
+        "location": [
+            311752.6875,
+            218350.875,
+            9028.9794921875
+        ],
+        "type": "LogPlayerPosition",
+        "inRide": false,
+        "distance": 0,
+        "speed": 0
+    }
 ]
-{ name: 'Lessdoit',
-  timestamp: '2018-04-03T02: 25: 36.950Z',
-  location: [
-    381106.1875,
-    134891.171875,
-    175.7838592529297
-  ],
+{ name: 'ViZeke',
+  timestamp: '2018-04-03T02:43:06.175Z',
+  location: [ 281793.0625, 192450.03125, 8243.5693359375 ],
   type: 'LogPlayerPosition',
   inRide: false,
-  distance: 133.37440051558104,
-  speed: 1200.3696046402295
-}
-{ name: 'Lessdoit',
-  timestamp: '2018-04-03T02: 25: 36.950Z',
-  location: [
-    381106.1875,
-    134891.171875,
-    175.7838592529297
-  ],
+  distance: 6041.627350728675,
+  speed: 21.80218370351166 }
+{ name: 'IllidanSF46',
+  timestamp: '2018-04-03T02:36:58.880Z',
+  location: [ 396727.46875, 332276.21875, 4.059999942779541 ],
   type: 'LogPlayerPosition',
   inRide: false,
-  distance: 133.37440051558104,
-  speed: 1200.3696046402295
-}
+  distance: 6430.363315646556,
+  speed: 23.075466443707736 }
